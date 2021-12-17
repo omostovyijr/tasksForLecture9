@@ -20,4 +20,4 @@ def f1():
 f1()
 
 print(cities)
-print(city_lenght(cities))
+print(cityLength(cities))
