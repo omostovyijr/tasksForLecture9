@@ -1,5 +1,5 @@
 cities = ['Athens', 'Roma', 'London', 'Beijing', 'Kiev', 'Riga']
-city_lenght = lambda s: [len(city) for city in s]
+cityLenght = lambda s: [len(city) for city in s]
 
 
 def f1():
